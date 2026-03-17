@@ -18,3 +18,13 @@
 - CEO / CTO / CMO portrait cards
 - OpenAI API route with fallback reply
 - Next.js App Router structure
+
+
+## TypeScript note
+This fixed package includes:
+- typescript
+- @types/node
+- @types/react
+- @types/react-dom
+- tsconfig.json
+- next-env.d.ts
